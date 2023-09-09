@@ -1,0 +1,20 @@
+{
+    "name": "My Project",
+    "description": "A sample project",
+    "members": [
+      {"name": "John Dose", "role": "Developer"},
+      {"name": "Jane Doe", "role": "Designer"}
+    ],
+    "tasks": [
+      {
+        "name": "Setup project",
+        "assignee": "John Doe",
+        "dueDate": "2023-03-01" 
+      },
+      {
+        "name": "Create homepage",  
+        "assignee": "Jane Doe",
+        "dueDate": "2023-03-15"
+      }
+    ]
+  }
